@@ -18,5 +18,8 @@ Aplicación web desarrollada con Django para gestionar y visualizar los gastos p
 - SQLite3 (por defecto) / PostgreSQL (opcional)
 
 ## 📦 Requisitos
-```bash
-pip install -r requirements.txt
+Python 3.10+
+Django 4.x
+Librerías adicionales (recomendadas):
+django-crispy-forms (para formularios más estilizados)
+django-notifications o sistema propio de alertas
